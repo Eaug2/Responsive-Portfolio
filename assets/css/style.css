@@ -300,6 +300,7 @@ input[type=submit] {
  nav{
    clear:both;
    float:none;
+   padding: 0px 150px;
  }
 
  #logo{
